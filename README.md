@@ -1,4 +1,4 @@
-# SINGKO-NET-SYSTEM
+# SINGKO-NET
 ### FEATURE LIST
 ##### User - Only the user can provide a coin to make him use.
 ##### Coin - The system requires a five peso coin.
