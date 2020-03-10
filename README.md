@@ -6,7 +6,9 @@
 ######      -After , if the timer countdown is done the system or window wil automatically sleep.
 
 ### CASE DIAGRAM
-###### USER / Insert Coin / Use Computer
+##### USER
+###### Insert Coin / Use Computer
+#####  SYSTEM
 ###### Check if Coin Valid
 ###### RunTime - System will give a start time/timer.
-###### Check if time is done - System wll automatically sleep.
+###### Check if time is done - System will automatically sleep.
