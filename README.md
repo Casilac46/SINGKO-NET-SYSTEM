@@ -9,6 +9,6 @@
 ##### USER
 ###### Insert Coin / Use Computer
 #####  SYSTEM
-###### Check if Coin Valid
+###### Check if Coin is Valid
 ###### RunTime - System will give a start time/timer.
 ###### Check if time is done - System will automatically sleep.
